@@ -1,4 +1,4 @@
-Use python pandas, matplotlib.pyplot and seaboard to do some data analysis and display.
+Use python pandas, matplotlib.pyplot and seaborn to do some data analysis and display.
 
 "奥运运动员数据.xlsx" is the raw data.
 
