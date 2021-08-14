@@ -15,3 +15,9 @@ Use python **numpy, pandas, matplotlib.pyplot and seaborn** to do some data anal
 2. athleteheight.py displays the height distribution into pic1.png. 
 
 3. bmi.py uses violin figure to display the distribution of athlete's BMI, showing in pic2.png. But only events which have more than 15 members have been selected.
+
+
+![](pic1.png)
+
+![](pic2_BMI.png)
+
